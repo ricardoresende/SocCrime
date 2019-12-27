@@ -16,6 +16,10 @@ This application has a filter to allow the user make a search using key-works or
 - Forecast
 - Wish
 
+## Filter
+
+![Filter screen](https://github.com/ricardoresende/analysisofcriminalposts/blob/master/applicationInteface/filter.PNG)
+
 _Liu, K. (2000) Semiotics in Information Systems Engineering, Cambridge University Press._
 
 
