@@ -1,0 +1,1 @@
+<?php $aProdFileList = array("prod_list.php", "nm_xml.php", "nm_ini_lib.php", "devel/class/interface/nmConnection.class.php"); ?>

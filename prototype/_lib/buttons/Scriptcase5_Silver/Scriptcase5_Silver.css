@@ -1,0 +1,6 @@
+.scButton_default { font-family: Arial, sans-serif; font-size: 12px; color: #000; font-weight: normal; background-color: #FFFFFF; border-left-color: #CCCCCC; border-right-color: #777777; border-top-color: #CCCCCC; border-bottom-color: #777777; border-style: solid; border-width: 1px; -moz-border-radius: 4px; -webkit-border-radius: 4px; padding: 0 1px 0 1px; background-image: url(../../img/scriptcase__NM__bgButtonsGoogle.png); }
+.scButton_desativado { font-family: Arial, sans-serif; font-size: 12px; color: #aaaaaa; font-weight: normal; background-color: #FFFFFF; border-left-color: #CCCCCC; border-right-color: #777777; border-top-color: #CCCCCC; border-bottom-color: #777777; border-style: solid; border-width: 1px; padding: 1px 3px 1px 3px; background-image: url(../../img/scriptcase__NM__bgButtonsGoogle.png); }
+.scLink_default { text-decoration: none; font-family: Arial, sans-serif; font-size: 11px; color: #000066;  }
+.scLink_default:visited { text-decoration: none; font-family: Arial, sans-serif; font-size: 11px; color: #000066;  }
+.scLink_default:active { text-decoration: none; font-family: Arial, sans-serif; font-size: 11px; color: #000066;  }
+.scLink_default:hover { text-decoration: underline; font-family: Arial, sans-serif; font-size: 11px; color: #000066;  }
