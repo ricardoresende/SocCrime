@@ -4,7 +4,7 @@ This prototype was development on PHP and Scriptcase Framework.
 
 ## Introduction
 
-The application has a filter to allow the user make a search using key-works or the classification based on cube proposed by Liu.
+This application has a filter to allow the user make a search using key-works or the classification based on cube proposed by Liu.
 
 *Classification*
 - Palinode
